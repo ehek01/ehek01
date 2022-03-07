@@ -22,8 +22,11 @@ node기반 모바일용 api서버 개발 프로젝트 3건 수행
 
 E사 / Software Engineer 
 2021.08 ~ 2022.02 ( 7 months )
+
 개발팀 연구원
+
 WMS(Warehouse Management system) 개발
+
 GIS 개발
 Map Api 개발
 사용 기술 : C#, Node.js, Unity, JavaScript, Kotlin, Java… 
