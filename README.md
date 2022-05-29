@@ -12,10 +12,12 @@
 ㅡ
 # 보유 기술
 
-- Front-end Engineering
-- jQuery를 활용한 개발 경험
-- Back-end Engineering
-- node기반 모바일용 api서버 개발 프로젝트 3건 수행
+- OOP (Java, C#)
+- DataBase (JPA, JDBC, Mysql, MyBatis)
+- Back-end Engineering (Java Spring, Node.js)
+- Front-end Engineering (html, javascript)
+- Java Spring기본 api서버 개발 프로젝트 3건 수행
+- node.js기반 모바일용 api서버 개발 프로젝트 3건 수행
 
 ㅡ
 # 경력
@@ -33,6 +35,9 @@ E사 / Software Engineer
 
 인제대 / 컴퓨터공학과 학사
 - 2015.02 ~ 2022.02 ( 4 years )
+
+NHN ACADEMY 경남캠퍼스 1기
+- 2022.03 ~
 
 ㅡ
 # 프로젝트 및 서비스
