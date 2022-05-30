@@ -22,7 +22,7 @@
 ㅡ
 # 경력
 
-E사 / Software Engineer 
+AR개발회사 / Software Engineer 
 - 2021.08 ~ 2022.02 ( 7 months )
 - 개발팀 연구원
 - WMS(Warehouse Management system) 개발
