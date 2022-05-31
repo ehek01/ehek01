@@ -43,7 +43,7 @@ NHN ACADEMY 경남캠퍼스 1기
 # 프로젝트 및 서비스
 
 인제대학교 / 졸업작품 (2020.08 - 2021.04)
-- [Iot 종합 플랫폼] (https://do-dari.notion.site/Iot-PlatForm-b73c44db47014e6880b8dc7e6321fd9e)
+- [Iot 종합 플랫폼](https://do-dari.notion.site/Iot-PlatForm-b73c44db47014e6880b8dc7e6321fd9e)
 
 
 ㅡ
