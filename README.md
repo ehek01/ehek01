@@ -49,19 +49,3 @@ NHN ACADEMY 경남캠퍼스 1기
 - WMS(창고물류 괸리시스템)
 
 ㅡ
-# 프로젝트 상세 
-
-모바일 IOC / 팀 프로젝트 (2020.08 ~ 2021.04)
-- 대학교 졸업작품
-- node.js 기반의 메모 및 TODO-List 서비스
-
-프로젝트 상세 
-- 유명 TODO-List 서비스 ooo를 클론하여 진행한 토이 프로젝트 
-- Spring API 백엔드 구성 
-- 자바기반 Android Native 어플리케이션 개발
-- Slack / Jira / GitHub를 사용해 협업 및 이슈 관리 
-- 역할 및 성과 
-- 안드로이드 어플리케이션 개발 담당
-- 협업 툴 조사 및 도입
-- 단위테스트 기능 스터디 진행 및 JUnit Test 작성
-- Google Playstore 게시 및 다운로드 유저 누적 N명 
