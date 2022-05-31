@@ -52,7 +52,7 @@ NHN ACADEMY 경남캠퍼스 1기
 
 # 학습 내용
 
-개인적으로 공부한 내용들을 정리해준 내용입니다.
+개인적으로 공부한 내용들을 정리해 자료입니다.
 - [이론](https://do-dari.notion.site/1d5a36ebc0ce440198c5301fbd5ad42a)
 - [실습](https://do-dari.notion.site/17d6e9ac33d146dcbfe908407d91913c)
 
