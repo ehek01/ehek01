@@ -22,7 +22,7 @@
 ㅡ
 # 경력
 
-AR개발회사 인턴 / Software Engineer 
+장기현장실습(IPP) / Software Engineer 
 - 2021.08 ~ 2022.02 ( 7 months )
 - 개발팀 연구원
 - WMS(Warehouse Management system) 개발
